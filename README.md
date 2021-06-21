@@ -15,12 +15,15 @@ To find outcomes rates based on the goal amount of the campaigns we needed to fi
 I then created a line graph to display the success rate based on the goal amount of each campaign.
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/82718969/122762032-84b4c700-d262-11eb-9499-7e5c336a9792.png)
+
 This graph illustrated that the month with the highest number of successful campaigns was in May.
 ![Theater Campaign Success rate by Month](https://user-images.githubusercontent.com/82718969/122762586-17556600-d263-11eb-9a71-554176a51521.png)
+
 The analysis showed that May also had the highest rate of success for a launch date.
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82718969/122762699-3522cb00-d263-11eb-9fae-c4362f61f94a.png)
+
 This graph shows that the highest rate of success for campaigns falls in the goal range of less than $1,000 yielded a success rate of 75.81%. 
 However, if your campaign needs more than $999 to fund your project it may be necessary to ask for more money. The best comparative outcome rate in regard to goals of more significant amounts of money was in the $40,000 to $44999 range which yielded a success rate of 66.67%
 ### Challenges and Difficulties Encountered
