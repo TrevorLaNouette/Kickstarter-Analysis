@@ -13,7 +13,7 @@ I analyzed this further by finding the success rate of campaigns by month.  I di
 To find outcomes rates based on the goal amount of the campaigns we needed to find the number of each outcome “Successful, Failed, and Canceled” for each goal range. The goals amounts were sectioned into 12 separate goal ranges. I then counted the number of outcomes that fit into each goal range. Once I compiled that data I was able to find the rate of each outcome by dividing the outcome count for each range by the total number of projects in each range. 
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82718969/122762441-ee34d580-d262-11eb-989e-606aced72cfb.png) 
-I then created a line graph to display the success rate based on the goal amount of each campaign.
+I created the aboe line graph to display the success rate based on the goal amount range of each campaign.
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/82718969/122762032-84b4c700-d262-11eb-9499-7e5c336a9792.png)
 
