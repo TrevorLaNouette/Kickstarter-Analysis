@@ -19,7 +19,7 @@ I created the above line graph to display the success rate based on the goal amo
 
 This graph illustrated that the month with the highest number of successful campaigns was in May.
 
-The analysis showed that May also had the highest rate of success for a launch date.
+Based on the table above, further analysis showed that May also had the highest rate of success for a launch date.
 ![Theater Campaign Success rate by Month](https://user-images.githubusercontent.com/82718969/122762586-17556600-d263-11eb-9a71-554176a51521.png)
 
 ### Analysis of Outcomes Based on Goals
