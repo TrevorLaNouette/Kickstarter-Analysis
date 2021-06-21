@@ -8,11 +8,11 @@ To compare different campaigns based on launch dates and funding goals to find t
 
 ## Analysis and Challenges
 In order to find the outcome rate based on launch dates I needed to first organize the data of theater launch months. I removed the live campaigns from the data set so that we could look at information that would yield a final outcome. I organized the monthly data in descending order from highest number of successful campaigns to lowest. I then turned this data into a line graph to visualize the outcomes by month. 
-Resources/Theater_Outcomes_vs_Launch.png
+https://raw.githubusercontent.com/TrevorLaNouette/kickstarter-analysis/main/Resources/Theater_Outcomes_vs_Launch.png
 I analyzed this further by finding the success rate of campaigns by month.  I did this by dividing the total number of successful campaigns in each month by the total number of campaigns. 
 To find outcomes rates based on the goal amount of the campaigns we needed to find the number of each outcome “Successful, Failed, and Canceled” for each goal range. The goals amounts were sectioned into 12 separate goal ranges. I then counted the number of outcomes that fit into each goal range. Once I compiled that data I was able to find the rate of each outcome by dividing the outcome count for each range by the total number of projects in each range. (Insert Outcomes based on Goals) I then created a line graph to display the success rate based on the goal amount of each campaign.
 ### Analysis of Outcomes Based on Launch Date
-Resources/Theater_Outcomes_vs_Launch.png
+https://raw.githubusercontent.com/TrevorLaNouette/kickstarter-analysis/main/Resources/Theater_Outcomes_vs_Launch.png
 This graph illustrated that the month with the highest number of successful campaigns was in May.
 (Insert Theater Campaign Success rate by Month).
 The analysis showed that May also had the highest rate of success for a launch date.
