@@ -40,4 +40,6 @@ One of the challenges in this project was to decide on the goal amount to sugges
 The analysis of outcomes based on launch date was based on number of outcomes and not as a rate of success which would be a more accurate predictor of the best launch month.
 
 - I was able create a success rate chart based on month to further analyze the success rate so that we could more accurately see which month had the highest rate rather than the highest count of successful campaigns.
+
+
 ![Theater Campaign Success rate by Month](https://user-images.githubusercontent.com/82718969/122762216-b3cb3880-d262-11eb-8f70-b8fa3141bf33.png)
